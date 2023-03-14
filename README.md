@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p4xton
 - 👀 I’m interested in cybersecurity and programming
-- 🌱 I’m currently learning C++ and Ethical hacking
+- 🌱 I’m currently learning C++ and Java
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me - shivachaudhri7985@gmail.com
 
